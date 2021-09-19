@@ -1,0 +1,149 @@
+
+header
+{
+/*      text-align: center;*/
+    background-color: #0afa;
+    width: 100%;
+    padding: 2px;
+}
+
+
+#categories
+{
+    float: left;
+    width: 75%;
+    position: relative;
+    margin-top: 5px;
+}
+#about
+{
+    
+  margin: 5 auto;
+    margin-right: 10;
+   
+    
+  text-align: right;
+}
+
+#sides
+{
+    padding: 2px;
+}
+
+
+#left
+{
+    float: left;
+    text-align: center;
+    background-color:#dcFFF;
+    height: 100%;
+    width: 45%;
+    
+}
+
+
+#mid
+{
+   
+   
+    background-color: #000A;
+    height: 100%;
+    width: 10%;
+    position: 50%;
+    float: left;
+   align-items: center;
+    text-align: center;
+    
+    
+}
+
+.verticalBts
+{
+    margin-bottom: 5px;
+    margin: 5px auto;
+    padding: 5px;
+    height: 10%;
+    width: 20%;
+ 
+    border: solid 2px  black;
+}
+
+#right
+{
+float: right;
+    text-align: center;
+    
+    background-color: #0073AC;
+    height: 100%;
+    width: 45%;
+}
+
+#rightImage
+{
+  align-content: center;
+    margin: 5px;
+    
+    width: 500px;
+    border: solid;
+    border-color: cyan;
+    padding: 10px;
+    background-size: cover;
+    
+}
+
+.brightColor
+{
+  color: #FFA;
+    border-color: red;
+    border-style: solid;
+    
+    
+}
+.darkColor
+{
+    border-style: solid;
+    text-decoration-style: solid;
+    
+}
+
+.brightText
+{
+    color: aliceblue;
+}
+
+.headerBts
+{
+    padding: 10px;
+    margin: 5 auto;
+   text-align: left;
+    
+}
+
+
+
+.inputText
+{
+    width : 100%;
+/*
+    backface-visibility: hidden;
+    visibility: hidden;
+    border-style: none;
+*/
+}
+
+
+
+footer
+{
+  float: left;
+    bottom: 0;
+   margin-top: 1px;
+    border-style: solid;
+    text-align: center;
+    background-color: red;
+    width: 100%;
+   
+    
+   
+    
+}
